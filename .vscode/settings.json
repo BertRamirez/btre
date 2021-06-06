@@ -1,3 +1,10 @@
 {
-    "python.pythonPath": "/Users/bertramirez/.virtualenvs/BTRE_Project-8AcO80VN/bin/python"
+    "python.pythonPath": "/Users/bertramirez/.virtualenvs/BTRE_Project-8AcO80VN/bin/python",
+    "python.autoComplete.addBrackets": true,
+    "python.testing.pytestArgs": [
+        "btre"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
 }
